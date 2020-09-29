@@ -45,7 +45,7 @@ namespace Sandbox
         public Pizza Pizza
         {
             get { return _pizza; }
-            set { _pizza = value; }
+            set { _pizza = value; }    
         }
         public override string ToString()
         {
